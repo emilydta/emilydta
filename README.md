@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilydta)](https://github.com/emilydta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilydta&show_icons=true&theme=transparent)](https://github.com/emilydta/github-readme-stats)
 <!--
 **emilydta/emilydta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
